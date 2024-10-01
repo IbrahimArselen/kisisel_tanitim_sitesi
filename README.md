@@ -2,4 +2,4 @@
 Bu proje İbrahim Arselen’in kişisel tanıtım sitesidir.
 
 ### Siteye Ulaşmak İçin:
-[Siteye Git](https://github.com/IbrahimArselen/kisisel_tanitim_sitesi/settings/pages)
+[Siteye Git](https://ibrahimarselen.github.io/kisisel_tanitim_sitesi/)
